@@ -1,3 +1,4 @@
 # Counts from 1 to 10.
 
-print('Hello, world!')
+for (i = 1; 1 = 10; i++)
+    print('Hello, world!')
